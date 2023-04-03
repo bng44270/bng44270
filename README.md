@@ -3,16 +3,41 @@
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
-While I maintain a few [repositories][repositories url] the vast majority of my development work in contained in [Gists][gist url].  
+From small scripts to larger projects I've written a little bit of everything including Bash, Python, JavaScript, and other languages.  Search through some of the I've written and see if there's anything you find interesting.  
+  
+* [Repositories][repositories url] ([Advanced][repositories url adv])  
+* [Gists][gist url] ([Advanced][gist url adv])  
+  
+
+If you'd like to read up on subjects including Bash and Apache, click here to check some of the [articles][article url] I've written. 
+  
+There are a few web apps that I have developed that are available for you to play with. Much of the functionality used in the demos are available in one of my repositories or gists.  
+  
+* [DomTerm/JsonFS][domterm url]  Create a customizable command-line interface in the browser and work with files on a JSON-based filesystem  
+* [WebNotepad][webnote url]  Maintain a collection of personal notes using web browser local storage
+* [Jgraf][jgraf url]  Create and customize SVG bar and line graphs
+* [Leaflet Demo][leaflet demo url] Maintain a collection of geographic coordinates wtih metadata using web browser local storage (also uses [Leaflet][leaflet url])
+* [Mermaid Demo][mermaid demo url]  Create flowcharts, diagrams, and visualizations using the [Mermaid JS][mermaid url] library.
+* [Blockly Demo][blockly demo url]  Visually devevlop with drag-drop logic blocks, convert to JavaScript, and download code using [Blockly][blockly url].
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
-  
-For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website].
 
+[webnote url]:  https://bng44270.github.io/notepad.html
+[jgraf url]:  https://bng44270.github.io/jgraf.html
+[leaflet demo url]:  https://bng44270.github.io/map.html
+[leaflet url]:  https://leafletjs.com/
+[mermaid demo url]:  https://bng44270.github.io/mermaid.html
+[mermaid url]:  https://mermaid-js.github.io/
+[blockly demo url]:  https://bng44270.github.io/blockly-demo/
+[blockly url]:  https://github.com/google/blockly
+[domterm url]:  https://bng44270.github.io/term.html
+[article url]:  https://bng44270.github.io/articles.html
 [repositories url]:  https://github.com/bng44270?tab=repositories
+[repositories url adv]:  https://github.com/search?o=desc&q=user%3Abng44270&s=updated&type=Repositories
 [portfolio website]: https://bng44270.github.io
 [linkedin profile]: http://linkedin.com/in/carlsonandy/
 [gist url]: https://gists.github.com/bng44270
+[gist url adv]: https://gist.github.com/search?o=desc&q=user%3Abng44270&s=updated
 [resume url]:  https://docs.google.com/document/d/e/2PACX-1vSoRwcAgYd3tlPCNDlq2v9v74nlZL7D0tPa5ytAzuOmAZOVUYrNMa5HjZVJD5f982j4f50JiL3aEEHb/pub
 
 <!--
