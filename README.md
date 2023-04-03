@@ -3,7 +3,13 @@
   
 While I maintain a few repositories the vast majority of my development work in contained in [Gists][gist url].  
   
-My [LinkedIn][linkedin profile] profile maintains a detailed information my career experience including education and certifications.
+My [LinkedIn][linkedin profile] profile maintains a detailed information my career experience including education and certifications.  
+  
+For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website].
+
+[portfolio website]: https://bng44270.github.io "Portfolio"
+[linkedin profile]: http://linkedin.com/in/carlsonandy/ "LinkedIn"
+[gist url]: https://gists.github.com/bng44270
 
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
