@@ -3,15 +3,17 @@
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
-While I maintain a few repositories the vast majority of my development work in contained in [Gists][gist url].  
+While I maintain a few [repositories][repositories url] the vast majority of my development work in contained in [Gists][gist url].  
   
-My [LinkedIn][linkedin profile] profile maintains a detailed information my career experience including education and certifications.  
+I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
   
 For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website].
 
+[repositories url]:  https://github.com/bng44270?tab=repositories
 [portfolio website]: https://bng44270.github.io
 [linkedin profile]: http://linkedin.com/in/carlsonandy/
 [gist url]: https://gists.github.com/bng44270
+[resume url]:  https://docs.google.com/document/d/e/2PACX-1vSoRwcAgYd3tlPCNDlq2v9v74nlZL7D0tPa5ytAzuOmAZOVUYrNMa5HjZVJD5f982j4f50JiL3aEEHb/pub
 
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
