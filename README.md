@@ -1,3 +1,4 @@
+![Photo][personal photo]
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
@@ -7,10 +8,10 @@ My [LinkedIn][linkedin profile] profile maintains a detailed information my care
   
 For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website].
 
-[portfolio website]: https://bng44270.github.io "Portfolio"
-[linkedin profile]: http://linkedin.com/in/carlsonandy/ "LinkedIn"
+[portfolio website]: https://bng44270.github.io
+[linkedin profile]: http://linkedin.com/in/carlsonandy/
 [gist url]: https://gists.github.com/bng44270
-
+[personal photo]: https://media.licdn.com/dms/image/C4E03AQGhoWHrnTtoGQ/profile-displayphoto-shrink_800_800/0/1569264468559?e=2147483647&v=beta&t=SCc5mVeBofS8XNsxSA2g9BQNBRN_ifXdrybRdsTB7C0
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
