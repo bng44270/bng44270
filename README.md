@@ -1,4 +1,5 @@
-<img src="[personal photo]" alt="photo" width="200"/>
+<img src="https://media.licdn.com/dms/image/C4E03AQGhoWHrnTtoGQ/profile-displayphoto-shrink_800_800/0/1569264468559?e=2147483647&v=beta&t=SCc5mVeBofS8XNsxSA2g9BQNBRN_ifXdrybRdsTB7C0" alt="photo" width="200"/>  
+
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
@@ -11,7 +12,7 @@ For further information including demo's and articles take a look at my [Profess
 [portfolio website]: https://bng44270.github.io
 [linkedin profile]: http://linkedin.com/in/carlsonandy/
 [gist url]: https://gists.github.com/bng44270
-[personal photo]: https://media.licdn.com/dms/image/C4E03AQGhoWHrnTtoGQ/profile-displayphoto-shrink_800_800/0/1569264468559?e=2147483647&v=beta&t=SCc5mVeBofS8XNsxSA2g9BQNBRN_ifXdrybRdsTB7C0
+
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
