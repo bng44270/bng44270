@@ -22,6 +22,7 @@ There are a few web apps that I have developed that are available for you to pla
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
 
+[article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
 [webnote url]:  https://bng44270.github.io/notepad.html
 [jgraf url]:  https://bng44270.github.io/jgraf.html
 [leaflet demo url]:  https://bng44270.github.io/map.html
@@ -31,7 +32,6 @@ I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to mai
 [blockly demo url]:  https://bng44270.github.io/blockly-demo/
 [blockly url]:  https://github.com/google/blockly
 [domterm url]:  https://bng44270.github.io/term.html
-[article url]:  https://bng44270.github.io/articles.html
 [repositories url]:  https://github.com/bng44270?tab=repositories
 [repositories url adv]:  https://github.com/search?o=desc&q=user%3Abng44270&s=updated&type=Repositories
 [portfolio website]: https://bng44270.github.io
