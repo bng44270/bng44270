@@ -1,4 +1,4 @@
-![Photo][personal photo]
+<img src="[personal photo]" alt="photo" width="200"/>
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
