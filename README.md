@@ -1,4 +1,9 @@
-### Hi there 👋
+### Andy Carlson  
+## Linux Admin and Software Developer  
+  
+While I maintain a few repositories the vast majority of my development work in contained in [gist url].  
+  
+My [linkedin profile] profile maintains a detailed information my career experience including education and certifications.
 
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
