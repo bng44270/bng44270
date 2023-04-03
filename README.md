@@ -1,11 +1,14 @@
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
-While I maintain a few repositories the vast majority of my development work in contained in [Gists][gist url].  
+While I maintain a few repositories the vast majority of my development work in contained in [Gists][gist url]{:target="_blank"}
+.  
   
-My [LinkedIn][linkedin profile] profile maintains a detailed information my career experience including education and certifications.  
+My [LinkedIn][linkedin profile]{:target="_blank"}
+ profile maintains a detailed information my career experience including education and certifications.  
   
-For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website].
+For further information including demo's and articles take a look at my [Professional Portfolio][portfolio website]{:target="_blank"}
+.
 
 [portfolio website]: https://bng44270.github.io "Portfolio"
 [linkedin profile]: http://linkedin.com/in/carlsonandy/ "LinkedIn"
