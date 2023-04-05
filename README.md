@@ -21,6 +21,8 @@ There are a few web apps that I have developed that are available for you to pla
 * [Blockly Demo][blockly demo url]  Visually devevlop with drag-drop logic blocks, convert to JavaScript, and download code using [Blockly][blockly url].
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
+  
+If you would be interested in custom development, systems architecture, or business process consulting, please [click here][contact url] to contact me.  
 
 [article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
 [webnote url]:  https://bng44270.github.io/notepad.html
@@ -39,6 +41,7 @@ I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to mai
 [gist url]: https://gists.github.com/bng44270
 [gist url adv]: https://gist.github.com/search?o=desc&q=user%3Abng44270&s=updated
 [resume url]:  https://docs.google.com/document/d/e/2PACX-1vSoRwcAgYd3tlPCNDlq2v9v74nlZL7D0tPa5ytAzuOmAZOVUYrNMa5HjZVJD5f982j4f50JiL3aEEHb/pub
+[contact url]:  https://docs.google.com/forms/d/e/1FAIpQLSfuxbMXOtV1VGJnGxdM0lwCf-X5tPtiatg-1ZEHArKzLR8sgA/viewform
 
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
