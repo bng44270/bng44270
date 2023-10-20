@@ -17,7 +17,7 @@ There are a few web apps that I have developed that are available for you to pla
 * [WebNotepad][webnote url]  Maintain a collection of personal notes using web browser local storage
 * [Jgraf][jgraf url]  Create and customize SVG bar and line graphs
 * [Leaflet Demo][leaflet demo url] Maintain a collection of geographic coordinates wtih metadata using web browser local storage (also uses [Leaflet][leaflet url])
-* [DC Boundary Stone Demo][leaflet dc demo url] This is a custom [Leaflet][leaflet url] demo to display information for Washington, DC boundary stones.
+* [DC Boundary Stone Demo][leaflet dc demo url] This is a custom [Leaflet][leaflet url] demo to display information for Washington, DC boundary stones.  The [DC Stones][dc stones public url] public website contains an embedded GeoJSON map which is acccessible via the [gist][dc stones geojson url].
 * [Mermaid Demo][mermaid demo url]  Create flowcharts, diagrams, and visualizations using the [Mermaid JS][mermaid url] library.
 * [Blockly Demo][blockly demo url]  Visually devevlop with drag-drop logic blocks, convert to JavaScript, and download code using [Blockly][blockly url].
   
@@ -44,7 +44,8 @@ If you would be interested in custom development, systems architecture, or busin
 [gist url adv]: https://gist.github.com/search?o=desc&q=user%3Abng44270&s=updated
 [resume url]:  https://docs.google.com/document/d/e/2PACX-1vSoRwcAgYd3tlPCNDlq2v9v74nlZL7D0tPa5ytAzuOmAZOVUYrNMa5HjZVJD5f982j4f50JiL3aEEHb/pub
 [contact url]:  https://docs.google.com/forms/d/e/1FAIpQLSfuxbMXOtV1VGJnGxdM0lwCf-X5tPtiatg-1ZEHArKzLR8sgA/viewform
-
+[dc stones public url]: https://dcstones.org/
+[dc stones geojson url]:  https://gist.github.com/bng44270/c4de6eacce51cf1cdd3c07cdd1fb99d3
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
