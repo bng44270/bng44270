@@ -16,6 +16,7 @@ There are a few web apps that I have developed that are available for you to pla
 * [DomTerm/JsonFS][domterm url]  Create a customizable command-line interface in the browser and work with files on a JSON-based filesystem  
 * [WebNotepad][webnote url]  Maintain a collection of personal notes using web browser local storage
 * [Jgraf][jgraf url]  Create and customize SVG bar and line graphs
+* [DragDoc][dragdoc url]  Interact with images by zooming and dragging to pan
 * [Leaflet Demo][leaflet demo url] Maintain a collection of geographic coordinates wtih metadata using web browser local storage (also uses [Leaflet][leaflet url])
 * [DC Boundary Stone Demo][leaflet dc demo url] This is a custom [Leaflet][leaflet url] demo to display information for Washington, DC boundary stones.  The [DC Stones][dc stones public url] public website contains an embedded GeoJSON map which is acccessible via the [gist][dc stones geojson url].
 [comment]: <> (* [Mermaid Demo][mermaid demo url]  Create flowcharts, diagrams, and visualizations using the [Mermaid JS][mermaid url] library.)
@@ -28,6 +29,7 @@ If you would be interested in custom development, systems architecture, or busin
 [article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
 [webnote url]:  https://bng44270.github.io/notepad.html
 [jgraf url]:  https://bng44270.github.io/jgraf.html
+[dragdoc url]:  https://bng44270.github.io/dragdoc.html
 [leaflet demo url]:  https://bng44270.github.io/map.html
 [leaflet url]:  https://leafletjs.com/
 [leaflet dc demo url]:  https://bng44270.github.io/dcstones-map.html
