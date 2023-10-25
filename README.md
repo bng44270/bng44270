@@ -19,7 +19,6 @@ There are a few web apps that I have developed that are available for you to pla
 * [DragDoc][dragdoc url]  Interact with images by zooming and dragging to pan
 * [Leaflet Demo][leaflet demo url] Maintain a collection of geographic coordinates wtih metadata using web browser local storage (also uses [Leaflet][leaflet url])
 * [DC Boundary Stone Demo][leaflet dc demo url] This is a custom [Leaflet][leaflet url] demo to display information for Washington, DC boundary stones.  The [DC Stones][dc stones public url] public website contains an embedded GeoJSON map which is acccessible via the [gist][dc stones geojson url].
-[comment]: <> (* [Mermaid Demo][mermaid demo url]  Create flowcharts, diagrams, and visualizations using the [Mermaid JS][mermaid url] library.)
 * [Blockly Demo][blockly demo url]  Visually devevlop with drag-drop logic blocks, convert to JavaScript, and download code using [Blockly][blockly url].
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
