@@ -4,10 +4,8 @@
 ## Linux Admin and Software Developer  
   
 From small scripts to larger projects I've written a little bit of everything including Bash, Python, JavaScript, and other languages.  Search through some of the I've written and see if there's anything you find interesting.  
-  
-* [Repositories][repositories url] ([Advanced][repositories url adv])  
-* [Gists][gist url] ([Advanced][gist url adv])  
-  
+
+[Repositories][repositories url]  
 
 If you'd like to read up on subjects including Bash and Apache, click here to check some of the [articles][article url] I've written. 
   
