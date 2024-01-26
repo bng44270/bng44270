@@ -4,8 +4,15 @@
 ## Linux Admin and Software Developer  
   
 From small scripts to larger projects I've written a little bit of everything including Bash, Python, JavaScript, and other languages.  Search through some of the I've written and see if there's anything you find interesting.  
-
-[Repositories][repositories url]  
+* [Bash Scripts][bash script url]
+* [General Python Scripts][python script url]
+* [Database-related Python Scripts][python db script url]
+* [JavaScript Scripts][js script url]
+* [Windows-related Scripts][windows script url]
+* [ServiceNow-related Scripts][servicenow script url]
+* [Google AppScript Scripts][google script url]
+* [CyberSecurity-related Scripts][cybersec script url]
+* [All Other Repositories][repositories url]
 
 If you'd like to read up on subjects including Bash and Apache, click here to check some of the [articles][article url] I've written. 
   
@@ -36,7 +43,14 @@ If you would be interested in custom development, systems architecture, or busin
 [blockly url]:  https://github.com/google/blockly
 [domterm url]:  https://bng44270.github.io/term.html
 [repositories url]:  https://github.com/bng44270?tab=repositories
-[repositories url adv]:  https://github.com/search?o=desc&q=user%3Abng44270&s=updated&type=Repositories
+[bash script url]:  https://github.com/bng44270/bash-utils
+[python script url]:  https://github.com/bng44270/py-utils
+[js script url]:  https://github.com/bng44270/js-tools
+[windows script url]:  https://github.com/bng44270/windows-code
+[servicenow script url]:  https://github.com/bng44270/servicenow-scripts
+[python db script url]:  https://github.com/bng44270/pydb-utils
+[google script url]:  https://github.com/bng44270/google-script
+[cybersec script url]:  https://github.com/bng44270/cs-utils
 [portfolio website]: https://bng44270.github.io
 [linkedin profile]: http://linkedin.com/in/carlsonandy/
 [gist url]: https://gists.github.com/bng44270
