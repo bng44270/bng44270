@@ -35,7 +35,7 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 
-[discord url]:  https://discord.gg/QvHhFqXm
+[discord url]:  https://discord.gg/pcXZhGEX
 [article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
 [webnote url]:  https://bng44270.github.io/notepad.html
 [jgraf url]:  https://bng44270.github.io/jgraf.html
