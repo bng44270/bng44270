@@ -30,11 +30,10 @@ I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to mai
   
 If you would be interested in custom development, systems architecture, or business process consulting, please [click here][contact url] to contact me.  
   
-
-  
+<!--
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
-
+-->
 [discord url]:  https://discord.gg/pcXZhGEX
 [article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
 [webnote url]:  https://bng44270.github.io/notepad.html
