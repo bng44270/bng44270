@@ -3,7 +3,7 @@
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
   
-From small scripts to larger projects I've written a little bit of everything including Bash, Python, JavaScript, and other languages.  Search through some of the stuff I've developed and see if there's anything you find interesting.  
+From small scripts to larger projects I've written a little bit of everything including Bash, Python, JavaScript, and other languages.  Search through some of the stuff I've developed and see if there's anything you find interesting.  All of the scripts should be self-documented.....if not, hit me up and I'll get it fixed :)
 * [Bash Scripts][bash script url]
 * [General Python Scripts][python script url]
 * [Database-related Python Scripts][python db script url]
