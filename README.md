@@ -8,6 +8,7 @@ From small scripts to larger projects I've written a little bit of everything in
 * [General Python Scripts][python script url]
 * [Database-related Python Scripts][python db script url]
 * [JavaScript Scripts][js script url]
+* [Linux-related Scripts][linux script url]
 * [Windows-related Scripts][windows script url]
 * [ServiceNow-related Scripts][servicenow script url]
 * [Google AppScript Scripts][google script url]
@@ -51,6 +52,7 @@ Join the group discussion on
 [bash script url]:  https://github.com/bng44270/bash-utils
 [python script url]:  https://github.com/bng44270/py-utils
 [js script url]:  https://github.com/bng44270/js-tools
+[linux script url]:  https://github.com/bng44270/linux-code/
 [windows script url]:  https://github.com/bng44270/windows-code
 [servicenow script url]:  https://github.com/bng44270/servicenow-scripts
 [python db script url]:  https://github.com/bng44270/pydb-utils
