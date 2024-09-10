@@ -29,6 +29,8 @@ There are a few web apps that I have developed that are available for you to pla
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
   
+If you have an interest in learning coding please check out my [SuperProf profile][superprof url] and I can get you started on your coding journey.  
+  
 If you would be interested in custom development, systems architecture, or business process consulting, please [click here][contact url] to contact me.  
   
 <!--
@@ -66,6 +68,7 @@ Join the group discussion on
 [contact url]:  https://docs.google.com/forms/d/e/1FAIpQLSfuxbMXOtV1VGJnGxdM0lwCf-X5tPtiatg-1ZEHArKzLR8sgA/viewform
 [dc stones public url]: https://dcstones.org/
 [dc stones geojson url]:  https://gist.github.com/bng44270/c4de6eacce51cf1cdd3c07cdd1fb99d3
+[superprof url]:  https://www.superprof.com/coding-made-easy-build-skills-that-will-set-you-grow-and-succeed-developer.html
 <!--
 **bng44270/bng44270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
