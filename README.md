@@ -1,4 +1,4 @@
-<img style="border-radius:25px;width:200px;" src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/mugshot-github.jpg" />  
+<img style="border-radius:25px;width:200px;" src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/mugshot-github.png" />  
 
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
