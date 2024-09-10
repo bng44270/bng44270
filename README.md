@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E03AQGhoWHrnTtoGQ/profile-displayphoto-shrink_800_800/0/1569264468559?e=2147483647&v=beta&t=SCc5mVeBofS8XNsxSA2g9BQNBRN_ifXdrybRdsTB7C0" alt="photo" width="200"/>  
+<img style="border-radius:25px;width:200px;" src="https://media.licdn.com/dms/image/C4E03AQGhoWHrnTtoGQ/profile-displayphoto-shrink_800_800/0/1569264468559?e=2147483647&v=beta&t=SCc5mVeBofS8XNsxSA2g9BQNBRN_ifXdrybRdsTB7C0" />  
 
 ### Andy Carlson  
 ## Linux Admin and Software Developer  
