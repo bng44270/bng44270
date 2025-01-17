@@ -29,7 +29,9 @@ There are a few web apps that I have developed that are available for you to pla
   
 I use my [LinkedIn profile][linkedin profile] and my [Resume][resume url] to maintain detailed information my career experience including education and certifications.  
   
+<!--
 If you have an interest in learning coding please check out my [SuperProf profile][superprof url] and I can get you started on your coding journey.  
+-->
   
 If you would be interested in custom development, systems architecture, or business process consulting, please [click here][contact url] to contact me.  
   
