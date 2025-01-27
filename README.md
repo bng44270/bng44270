@@ -1,4 +1,4 @@
-<!--https://drive.google.com/file/d/16lC6eoAWiuc8AElw3VA1WvVrWOPsIfqx/view?usp=sharing-->
+<!--https://drive.google.com/uc?export=download&id=16lC6eoAWiuc8AElw3VA1WvVrWOPsIfqx-->
 <img style="border-radius:25px;width:200px;" src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/mugshot-github.png" />  
 
 ### Andy Carlson  
