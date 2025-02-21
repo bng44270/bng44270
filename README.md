@@ -20,7 +20,8 @@ If you'd like to read up on subjects including Bash and Apache, click here to ch
   
 There are a few web apps that I have developed that are available for you to play with. Much of the functionality used in the demos are available in one of my repositories or gists.  
   
-* [DomTerm/JsonFS][domterm url]  Create a customizable command-line interface in the browser and work with files on a JSON-based filesystem  
+* [DomTerm/JsonFS][domterm url]  Create a customizable command-line interface in the browser and work with files on a JSON-based filesystem
+* [JS Captcha][captcha url]  Creating client-side captcha's using number matching functionality  
 * [WebNotepad][webnote url]  Maintain a collection of personal notes using web browser local storage
 * [Jgraf][jgraf url]  Create and customize SVG bar and line graphs
 * [DragDoc][dragdoc url]  Interact with images by zooming and dragging to pan
@@ -45,6 +46,7 @@ Join the group discussion on
 [webnote url]:  https://bng44270.github.io/notepad.html
 [jgraf url]:  https://bng44270.github.io/jgraf.html
 [dragdoc url]:  https://bng44270.github.io/dragdoc.html
+[captcha url]:  https://bng44270.github.io/captcha.html
 [leaflet demo url]:  https://bng44270.github.io/map.html
 [leaflet url]:  https://leafletjs.com/
 [leaflet dc demo url]:  https://bng44270.github.io/dcstones-map.html
