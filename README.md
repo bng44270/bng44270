@@ -14,7 +14,7 @@ From small scripts to larger projects I've written a little bit of everything in
 * [ServiceNow-related Scripts][servicenow script url]
 * [Google AppScript Scripts][google script url]
 * [CyberSecurity-related Scripts][cybersec script url]
-* Zabbix Monitoring Templates
+* Zabbix Monitoring Configurations
   * [NVIDIA GPU Monitor][zabbix gpu url]
   * [Website Content Monitor][zabbix content url]
   * [Linux Host Monitor][zabbix linux url]  
