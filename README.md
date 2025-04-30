@@ -19,6 +19,7 @@ From small scripts to larger projects I've written a little bit of everything in
   * [Website Content Monitor][zabbix content url]
   * [Linux Host Monitor][zabbix linux url]  
   * [SSL Certificate Monitor][zabbix cert url]  
+  * [Cisco ASA Template][zabbix asa url]. 
 * [All Other Repositories][repositories url]
 
 If you'd like to read up on subjects including Bash and Apache, click here to check some of the [articles][article url] I've written. 
@@ -46,6 +47,7 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 -->
+[zabbix asa url]:  https://github.com/bng44270/linux-code/blob/main/zabbix_cisco_asa_template.xml
 [zabbix gpu url]:  https://github.com/bng44270/zabbix-gpu-monitor
 [zabbix content url]:  https://github.com/bng44270/zabbix-website-content-monitor
 [zabbix linux url]:  https://github.com/bng44270/zabbix-linux-template
