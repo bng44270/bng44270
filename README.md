@@ -19,7 +19,7 @@ From small scripts to larger projects I've written a little bit of everything in
   * [Website Content Monitor][zabbix content url]
   * [Linux Host Monitor][zabbix linux url]  
   * [SSL Certificate Monitor][zabbix cert url]  
-  * [Cisco ASA Template][zabbix asa url]. 
+  * [Cisco ASA Template][zabbix asa url]  
 * [All Other Repositories][repositories url]
 
 If you'd like to read up on subjects including Bash and Apache, click here to check some of the [articles][article url] I've written. 
