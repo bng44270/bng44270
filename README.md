@@ -15,7 +15,6 @@ From small scripts to larger projects I've written a little bit of everything in
 * [Google AppScript Scripts][google script url]
 * [CyberSecurity-related Scripts][cybersec script url]
 * Linux Virtualization
-  * [Create custom Debian LXC tempaltes][vm lxcdeb url]
   * [LXC Addon Commands][vm lxcadd url]
   * [Boot ISO with QEMU][vm iso url]  
 * Apache Configurations
