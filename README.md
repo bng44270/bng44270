@@ -14,6 +14,11 @@ From small scripts to larger projects I've written a little bit of everything in
 * [ServiceNow-related Scripts][servicenow script url]
 * [Google AppScript Scripts][google script url]
 * [CyberSecurity-related Scripts][cybersec script url]
+* Apache Configurations
+  * [AEM Dispatcher][apache aem url]
+  * [DDwrt Reverse Proxy][apache ddwrt url]
+  * [Monit Reverse Proxy][apache monit url]
+  * [WSGI Application][apache wsgi url]  
 * Zabbix Monitoring Configurations
   * [NVIDIA GPU Monitor][zabbix gpu url]
   * [Website Content Monitor][zabbix content url]
@@ -47,6 +52,10 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 -->
+[apache aem url]:  https://github.com/bng44270/aem-dispatcher-config
+[apache ddwrt url]:  https://github.com/bng44270/linux-code/blob/main/ddwrt.conf
+[apache monit url]:  https://github.com/bng44270/linux-code/blob/main/monit.conf
+[apache wsgi url]:  https://github.com/bng44270/linux-code/blob/main/wsgi-macro.conf
 [zabbix asa url]:  https://github.com/bng44270/linux-code/blob/main/zabbix_cisco_asa_template.xml
 [zabbix gpu url]:  https://github.com/bng44270/zabbix-gpu-monitor
 [zabbix content url]:  https://github.com/bng44270/zabbix-website-content-monitor
