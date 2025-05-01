@@ -14,6 +14,10 @@ From small scripts to larger projects I've written a little bit of everything in
 * [ServiceNow-related Scripts][servicenow script url]
 * [Google AppScript Scripts][google script url]
 * [CyberSecurity-related Scripts][cybersec script url]
+* Linux Virtualization
+  * [Create custom Debian LXC tempaltes][vm lxcdeb url]
+  * [LXC Addon Commands][vm lxcadd url]
+  * [Boot ISO with QEMU][vm iso url]  
 * Apache Configurations
   * [AEM Dispatcher][apache aem url]
   * [DDwrt Reverse Proxy][apache ddwrt url]
@@ -52,6 +56,9 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 -->
+[vm iso url]:  https://github.com/bng44270/linux-code/blob/main/bootiso.sh
+[vm lxcadd url]:  https://github.com/bng44270/lxc-addons
+[vm lxcdeb url]:  https://github.com/bng44270/bash-utils/blob/2f62ef74207adaeee21f963426d6061567e5fba3/deblxc-custom.sh#L7
 [apache aem url]:  https://github.com/bng44270/aem-dispatcher-config
 [apache ddwrt url]:  https://github.com/bng44270/linux-code/blob/main/ddwrt.conf
 [apache monit url]:  https://github.com/bng44270/linux-code/blob/main/monit.conf
