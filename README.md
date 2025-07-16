@@ -34,7 +34,7 @@ If you'd like to read up on subjects including Bash and Apache, click here to ch
   
 There are a few web apps that I have developed that are available for you to play with. Much of the functionality used in the demos are available in one of my repositories or gists.  
   
-* [DataGrid][datagrid demo url]  Load, search, edit, update, and download CSV files within a browser  
+* [DataGrid Demo][datagrid demo url]  Load, search, edit, update, and download CSV files within a browser  
 * [DataDef Demo][datadef demo url]  Create and extend a custom schema and edit schema-enforced data  
 * [DomTerm/JsonFS][domterm url]  Create a customizable command-line interface in the browser and work with files on a JSON-based filesystem
 * [JS Captcha][captcha url]  Creating client-side captcha's using number matching functionality  
