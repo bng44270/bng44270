@@ -17,6 +17,7 @@ From small scripts to larger projects I've written a little bit of everything in
 * Linux Virtualization
   * [LXC Addon Commands][vm lxcadd url]
   * [Boot ISO with QEMU][vm iso url]  
+  * [LXC Auto-Complete CLI][lxcli repo url]  
 * Apache Configurations
   * [AEM Dispatcher][apache aem url]
   * [DDwrt Reverse Proxy][apache ddwrt url]
@@ -57,6 +58,7 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 -->
+[lxcli repo url]:  https://github.com/bng44270/lxcli
 [datagrid demo url]:  https://bng44270.github.io/csv.html
 [datadef demo url]:  https://bng44270.github.io/datadef.html
 [vm iso url]:  https://github.com/bng44270/linux-code/blob/main/bootiso.sh
