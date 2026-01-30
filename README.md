@@ -46,7 +46,7 @@ There are a few web apps that I have developed that are available for you to pla
 * [DC Boundary Stone Demo][leaflet dc demo url] This is a custom [Leaflet][leaflet url] demo to display information for Washington, DC boundary stones.  The [DC Stones][dc stones public url] public website contains an embedded GeoJSON map which is acccessible via the [gist][dc stones geojson url].
 * [Blockly Demo][blockly demo url]  Visually devevlop with drag-drop logic blocks, convert to JavaScript, and download code using [Blockly][blockly url].
   
-I use my [LinkedIn profile][linkedin profile] maintain detailed information my career experience including education and certifications.  
+I use my [LinkedIn profile][linkedin profile] to maintain detailed information my career experience including education and certifications.  
   
 If you would be interested in custom development, systems architecture, or business process consulting, please [click here][contact url] to contact me.  
   
