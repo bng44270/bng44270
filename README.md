@@ -70,7 +70,7 @@ Join the group discussion on
 [zabbix linux url]:  https://github.com/bng44270/zabbix-linux-template
 [zabbix cert url]:  https://github.com/bng44270/zabbix-cert-expiring-check
 [discord url]:  https://discord.gg/pcXZhGEX
-[article url]:  https://github.com/bng44270/bng44270/blob/main/articles.md
+[article url]:  https://bng44270.github.io/articles.html
 [webnote url]:  https://bng44270.github.io/notepad.html
 [jgraf url]:  https://bng44270.github.io/jgraf.html
 [dragdoc url]:  https://bng44270.github.io/dragdoc.html
