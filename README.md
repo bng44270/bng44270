@@ -9,6 +9,7 @@ From small scripts to larger projects I've written a little bit of everything in
 * [General Python Scripts][python script url]
 * [Database-related Python Scripts][python db script url]
 * [JavaScript Scripts][js script url]
+* [Lua Scripts][lua scripts url]
 * [Linux-related Scripts][linux script url]
 * [Windows-related Scripts][windows script url]
 * [ServiceNow-related Scripts][servicenow script url]
@@ -54,6 +55,7 @@ If you would be interested in custom development, systems architecture, or busin
 Join the group discussion on    
 [<img src="https://raw.githubusercontent.com/bng44270/bng44270/main/images/discord-logo-blue.png">][discord url]
 -->
+[lua script url]:  https://github.com/bng44270/lua-scripts
 [lxcli repo url]:  https://github.com/bng44270/lxcli
 [datagrid demo url]:  https://bng44270.github.io/csv.html
 [datadef demo url]:  https://bng44270.github.io/datadef.html
