@@ -9,7 +9,7 @@ From small scripts to larger projects I've written a little bit of everything in
 * [General Python Scripts][python script url]
 * [Database-related Python Scripts][python db script url]
 * [JavaScript Scripts][js script url]
-* [Lua Scripts][lua scripts url]
+* [Lua Scripts][lua script url]
 * [Linux-related Scripts][linux script url]
 * [Windows-related Scripts][windows script url]
 * [ServiceNow-related Scripts][servicenow script url]
